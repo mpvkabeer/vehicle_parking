@@ -1,4 +1,3 @@
 Welcome to GitHub
 New changes - By Dev1
 New changes - By Dev2
-Stage version
